@@ -8,7 +8,7 @@ Sirve para estudiar lenguajes de programación, programas y herramientas (ej: Op
 
 Este repositorio contiene **solo `metodologia-estudio.md`** — es el único archivo que necesitas. Descárgalo y úsalo en tu propio chat con IA.
 
-Los demás archivos mencionados abajo (`curso-<tema>.md`, `avance-<tema>.md`, `readme-<tema>.md`, `Clase-0N.md`) **no están en este repo** — se generan automáticamente cuando tú usas el sistema, y quedan en tu propio proyecto o repo separado, no acá.
+Los demás archivos mencionados abajo (`curso-<tema>.md`, `avance-<tema>.md`, `README.md`, `Clase-0N.md`) **no están en este repo** — se generan automáticamente cuando tú usas el sistema, y quedan en tu propio proyecto o repo separado, no acá.
 
 ## ¿Qué hace?
 
@@ -18,7 +18,7 @@ A partir de ese archivo, la IA genera automáticamente el resto por tema de estu
 
 - `curso-<tema>.md` — el plan de estudios (módulos y lecciones, organizados en niveles Básico / Intermedio / Avanzado).
 - `avance-<tema>.md` — tu progreso: en qué lección vas, qué dominas, qué te falta.
-- `readme-<tema>.md` — opcional, solo si usas GitHub para ese curso. Un resumen rápido de estado (barra de progreso, nivel actual) para consultar de un vistazo. No confundir con este archivo (`README.md`), que es la portada del repo.
+- `README.md` — opcional, solo si usas GitHub para ese curso. Un resumen rápido de estado (barra de progreso, nivel actual) para consultar de un vistazo. No confundir con este archivo (que estas leyendo ahora), tu README.md que se generara sera el resumen mencionado de tu avance.
 - `Clase-0N.md` — opcional, el registro completo de cada clase si decides guardarlo.
 
 ## Cómo usarlo
