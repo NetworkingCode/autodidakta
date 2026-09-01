@@ -10,6 +10,108 @@ Este repositorio contiene **solo `metodologia-estudio.md`** — es el único arc
 
 Los demás archivos mencionados abajo (`curso-<tema>.md`, `avance-<tema>.md`, `README.md`, `Clase-0N.md`) **no están en este repo** — se generan automáticamente cuando tú usas el sistema, y quedan en tu propio proyecto o repo separado, no acá.
 
+## Cómo descargar el archivo (paso a paso)
+
+> Si nunca has descargado algo de GitHub, esta sección es para ti.
+
+```
+┌─────────────────────────────────────────────────────┐
+│  PASO 1 — Entra al repositorio en GitHub           │
+│                                                     │
+│  Abre tu navegador (Chrome, Firefox, Edge, etc.)    │
+│  y entra a la página de este repositorio.           │
+│  (El enlace está arriba en el nombre "Autodidakta") │
+└──────────────────────────┬──────────────────────────┘
+                           │
+                           ▼
+┌─────────────────────────────────────────────────────┐
+│  PASO 2 — Haz clic en el botón verde "Code"        │
+│                                                     │
+│  Busca el botón verde que dice "Code" ▼             │
+│  Está ubicado arriba a la derecha, junto a los     │
+│  botones de "Star" y "Fork".                        │
+│                                                     │
+│  ┌───────────┐                                      │
+│  │  <> Code ▼│  ← haz clic aquí                     │
+│  └───────────┘                                      │
+└──────────────────────────┬──────────────────────────┘
+                           │
+                           ▼
+┌─────────────────────────────────────────────────────┐
+│  PASO 3 — Selecciona "Download ZIP"                │
+│                                                     │
+│  Se abrirá un menú desplegable. Haz clic en la      │
+│  opción que dice "Download ZIP".                    │
+│                                                     │
+│  ┌─────────────────────────┐                        │
+│  │  Open with...           │                        │
+│  │  ↓                     │                        │
+│  │  Codespaces            │                        │
+│  │  ↓                     │                        │
+│  │  Download ZIP  ← clic  │                        │
+│  └─────────────────────────┘                        │
+└──────────────────────────┬──────────────────────────┘
+                           │
+                           ▼
+┌─────────────────────────────────────────────────────┐
+│  PASO 4 — Se descarga un archivo .zip              │
+│                                                     │
+│  Tu navegador descargará un archivo comprimido.     │
+│  Busca en tu carpeta "Descargas". Se verá algo      │
+│  como: "Metodologia-de-Estudio-ConIA-main.zip"     │
+└──────────────────────────┬──────────────────────────┘
+                           │
+                           ▼
+┌─────────────────────────────────────────────────────┐
+│  PASO 5 — Descomprime el archivo                   │
+│                                                     │
+│  Haz clic DERECHO sobre el archivo .zip.           │
+│  Selecciona "Extraer todo..." (Windows).            │
+│  O usa "The Unarchiver" / "Archive Utility" (Mac). │
+│  Se creará una carpeta con el contenido.            │
+└──────────────────────────┬──────────────────────────┘
+                           │
+                           ▼
+┌─────────────────────────────────────────────────────┐
+│  PASO 6 — Busca "metodologia-estudio.md"           │
+│                                                     │
+│  Abre la carpeta que se creó. Dentro encontrarás    │
+│  varios archivos. El que necesitas se llama:        │
+│                                                     │
+│  📄 metodologia-estudio.md                          │
+│                                                     │
+│  Ese es el archivo que usarás en tu chat con IA.    │
+└─────────────────────────────────────────────────────┘
+```
+
+**¿En Mac o Linux?** El proceso es igual: clic derecho → "Descomprimir" / "Extract".
+
+**¿No encuentras el archivo?** Asegúrate de haber entrado a la carpeta que se creó al descomprimir — a veces hay una carpeta dentro de otra.
+
+### Diagrama de flujo rápido
+
+```
+Entra al repo en GitHub
+        │
+        ▼
+Clic en botón verde "Code"
+        │
+        ▼
+Clic en "Download ZIP"
+        │
+        ▼
+Se descarga el .zip ──► Ve a tu carpeta "Descargas"
+        │
+        ▼
+Clic derecho ──► "Extraer todo..."
+        │
+        ▼
+Busca: metodologia-estudio.md  ✅
+        │
+        ▼
+¡Listo! Súbelo en tu chat con IA
+```
+
 ## ¿Qué hace?
 
 `metodologia-estudio.md` es el único archivo que necesitas subir. Define cómo una IA debe enseñarte: estructura de cada clase, cómo evalúa tus respuestas, cómo guarda tu avance, y las reglas generales de enseñanza (ir de a un tema a la vez, ejemplos simples antes de los reales, no avanzar con dudas importantes sin resolver, etc).
