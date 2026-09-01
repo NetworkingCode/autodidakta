@@ -12,20 +12,25 @@ Los demás archivos mencionados abajo (`curso-<tema>.md`, `avance-<tema>.md`, `R
 
 ## Cómo descargar el archivo (paso a paso)
 
-> Si nunca has descargado algo de GitHub, esta sección es para ti.
+> Si nunca has descargado algo de GitHub, esta sección es para ti. Ya estás dentro de la página del repositorio, así que empieza directamente en el paso 1.
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│  PASO 1 — Entra al repositorio en GitHub           │
+│  PASO 1 — Mira arriba: el botón verde "Code" ▼     │
 │                                                     │
-│  Abre tu navegador (Chrome, Firefox, Edge, etc.)    │
-│  y entra a la página de este repositorio.           │
-│  (El enlace está arriba en el nombre "Autodidakta") │
+│  En la parte de arriba de esta página hay varios    │
+│  botones. Busca el que es VERDE y dice "Code".      │
+│  Está a la derecha, junto a los botones de          │
+│  "Star" y "Fork".                                   │
+│                                                     │
+│  ┌───────────┐                                      │
+│  │  <> Code ▼│  ← clic aquí                         │
+│  └───────────┘                                      │
 └──────────────────────────┬──────────────────────────┘
                            │
                            ▼
 ┌─────────────────────────────────────────────────────┐
-│  PASO 2 — Haz clic en el botón verde "Code"        │
+│  PASO 2 — Selecciona "Download ZIP"                │
 │                                                     │
 │  Busca el botón verde que dice "Code" ▼             │
 │  Está ubicado arriba a la derecha, junto a los     │
@@ -38,7 +43,7 @@ Los demás archivos mencionados abajo (`curso-<tema>.md`, `avance-<tema>.md`, `R
                            │
                            ▼
 ┌─────────────────────────────────────────────────────┐
-│  PASO 3 — Selecciona "Download ZIP"                │
+│  PASO 2 — Selecciona "Download ZIP"                │
 │                                                     │
 │  Se abrirá un menú desplegable. Haz clic en la      │
 │  opción que dice "Download ZIP".                    │
@@ -54,7 +59,7 @@ Los demás archivos mencionados abajo (`curso-<tema>.md`, `avance-<tema>.md`, `R
                            │
                            ▼
 ┌─────────────────────────────────────────────────────┐
-│  PASO 4 — Se descarga un archivo .zip              │
+│  PASO 3 — Se descarga un archivo .zip              │
 │                                                     │
 │  Tu navegador descargará un archivo comprimido.     │
 │  Busca en tu carpeta "Descargas". Se verá algo      │
@@ -63,7 +68,7 @@ Los demás archivos mencionados abajo (`curso-<tema>.md`, `avance-<tema>.md`, `R
                            │
                            ▼
 ┌─────────────────────────────────────────────────────┐
-│  PASO 5 — Descomprime el archivo                   │
+│  PASO 4 — Descomprime el archivo                   │
 │                                                     │
 │  Haz clic DERECHO sobre el archivo .zip.           │
 │  Selecciona "Extraer todo..." (Windows).            │
@@ -73,7 +78,7 @@ Los demás archivos mencionados abajo (`curso-<tema>.md`, `avance-<tema>.md`, `R
                            │
                            ▼
 ┌─────────────────────────────────────────────────────┐
-│  PASO 6 — Busca "metodologia-estudio.md"           │
+│  PASO 5 — Busca "metodologia-estudio.md"           │
 │                                                     │
 │  Abre la carpeta que se creó. Dentro encontrarás    │
 │  varios archivos. El que necesitas se llama:        │
@@ -91,10 +96,10 @@ Los demás archivos mencionados abajo (`curso-<tema>.md`, `avance-<tema>.md`, `R
 ### Diagrama de flujo rápido
 
 ```
-Entra al repo en GitHub
+Ya estás dentro del repo
         │
         ▼
-Clic en botón verde "Code"
+Mira arriba: botón verde "Code"
         │
         ▼
 Clic en "Download ZIP"
