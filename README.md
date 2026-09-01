@@ -109,7 +109,7 @@ Busca: autodidakta-main.md  ✅
 
 ## ¿Qué hace?
 
-`autodidakta.md` es el único archivo que necesitas subir. Define cómo una IA debe enseñarte: estructura de cada clase, cómo evalúa tus respuestas, cómo guarda tu avance, y las reglas generales de enseñanza (ir de a un tema a la vez, ejemplos simples antes de los reales, no avanzar con dudas importantes sin resolver, etc).
+`autodidakta-main.md` es el único archivo que necesitas subir. Define cómo una IA debe enseñarte: estructura de cada clase, cómo evalúa tus respuestas, cómo guarda tu avance, y las reglas generales de enseñanza (ir de a un tema a la vez, ejemplos simples antes de los reales, no avanzar con dudas importantes sin resolver, etc).
 
 A partir de ese archivo, la IA genera automáticamente el resto por tema de estudio:
 
