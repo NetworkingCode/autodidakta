@@ -32,19 +32,6 @@ Los demás archivos mencionados abajo (`curso-<tema>.md`, `avance-<tema>.md`, `R
 ┌─────────────────────────────────────────────────────┐
 │  PASO 2 — Selecciona "Download ZIP"                │
 │                                                     │
-│  Busca el botón verde que dice "Code" ▼             │
-│  Está ubicado arriba a la derecha, junto a los     │
-│  botones de "Star" y "Fork".                        │
-│                                                     │
-│  ┌───────────┐                                      │
-│  │  <> Code ▼│  ← haz clic aquí                     │
-│  └───────────┘                                      │
-└──────────────────────────┬──────────────────────────┘
-                           │
-                           ▼
-┌─────────────────────────────────────────────────────┐
-│  PASO 2 — Selecciona "Download ZIP"                │
-│                                                     │
 │  Se abrirá un menú desplegable. Haz clic en la      │
 │  opción que dice "Download ZIP".                    │
 │                                                     │
