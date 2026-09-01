@@ -6,7 +6,7 @@ Sirve para estudiar lenguajes de programación, programas y herramientas (ej: Op
 
 ## Qué descargar
 
-Este repositorio contiene **solo `metodologia-estudio.md`** — es el único archivo que necesitas. Descárgalo y úsalo en tu propio chat con IA.
+Este repositorio contiene **solo `autodidakta.md`** — es el único archivo que necesitas. Descárgalo (en tu navegador aparecerá como `autodidakta-main.md`) y úsalo en tu propio chat con IA.
 
 Los demás archivos mencionados abajo (`curso-<tema>.md`, `avance-<tema>.md`, `README.md`, `Clase-0N.md`) **no están en este repo** — se generan automáticamente cuando tú usas el sistema, y quedan en tu propio proyecto o repo separado, no acá.
 
@@ -51,6 +51,9 @@ Los demás archivos mencionados abajo (`curso-<tema>.md`, `avance-<tema>.md`, `R
 │  Tu navegador descargará un archivo comprimido.     │
 │  Busca en tu carpeta "Descargas". Se verá algo      │
 │  como: "autodidakta-main.zip"                       │
+│                                                     │
+│  💡 Ese .zip contiene el archivo que te interesa,    │
+│  llamado autodidakta-main.md                        │
 └──────────────────────────┬──────────────────────────┘
                            │
                            ▼
@@ -65,12 +68,12 @@ Los demás archivos mencionados abajo (`curso-<tema>.md`, `avance-<tema>.md`, `R
                            │
                            ▼
 ┌─────────────────────────────────────────────────────┐
-│  PASO 5 — Busca "metodologia-estudio.md"           │
+│  PASO 5 — Busca "autodidakta-main.md"              │
 │                                                     │
 │  Abre la carpeta que se creó. Dentro encontrarás    │
 │  varios archivos. El que necesitas se llama:        │
 │                                                     │
-│  📄 metodologia-estudio.md                          │
+│  📄 autodidakta-main.md                             │
 │                                                     │
 │  Ese es el archivo que usarás en tu chat con IA.    │
 └─────────────────────────────────────────────────────┘
@@ -98,7 +101,7 @@ Se descarga el .zip ──► Ve a tu carpeta "Descargas"
 Clic derecho ──► "Extraer todo..."
         │
         ▼
-Busca: metodologia-estudio.md  ✅
+Busca: autodidakta-main.md  ✅
         │
         ▼
 ¡Listo! Súbelo en tu chat con IA
@@ -106,7 +109,7 @@ Busca: metodologia-estudio.md  ✅
 
 ## ¿Qué hace?
 
-`metodologia-estudio.md` es el único archivo que necesitas subir. Define cómo una IA debe enseñarte: estructura de cada clase, cómo evalúa tus respuestas, cómo guarda tu avance, y las reglas generales de enseñanza (ir de a un tema a la vez, ejemplos simples antes de los reales, no avanzar con dudas importantes sin resolver, etc).
+`autodidakta.md` es el único archivo que necesitas subir. Define cómo una IA debe enseñarte: estructura de cada clase, cómo evalúa tus respuestas, cómo guarda tu avance, y las reglas generales de enseñanza (ir de a un tema a la vez, ejemplos simples antes de los reales, no avanzar con dudas importantes sin resolver, etc).
 
 A partir de ese archivo, la IA genera automáticamente el resto por tema de estudio:
 
@@ -118,13 +121,13 @@ A partir de ese archivo, la IA genera automáticamente el resto por tema de estu
 ## Cómo usarlo
 
 1. Abre un chat nuevo con tu IA de preferencia.
-2. Sube `metodologia-estudio.md`.
+2. Sube `autodidakta-main.md` (el archivo que descargaste).
 3. Escribe **"Iniciar clase"**.
 4. Si es tu primera vez, la IA te preguntará qué tema quieres estudiar, tu nombre, si usarás GitHub, y si quieres guardar el registro de cada clase.
 5. Estudia la lección: explicación, ejemplos, ejercicio guiado (resuelto por la IA), espacio para dudas, y ejercicios para que tú resuelvas.
 6. Responde los ejercicios. La IA evalúa y cierra con un resumen.
 7. Escribe **"Cerrar clase"** y guarda los archivos actualizados que te entregue.
-8. Repite desde el paso 1 en tu próxima sesión — sube los archivos actualizados junto con `metodologia-estudio.md`.
+8. Repite desde el paso 1 en tu próxima sesión — sube los archivos actualizados junto con `autodidakta-main.md`.
 
 ## ¿Encontraste un problema o tienes una idea?
 
