@@ -50,7 +50,7 @@ Los demás archivos mencionados abajo (`curso-<tema>.md`, `avance-<tema>.md`, `R
 │                                                     │
 │  Tu navegador descargará un archivo comprimido.     │
 │  Busca en tu carpeta "Descargas". Se verá algo      │
-│  como: "Metodologia-de-Estudio-ConIA-main.zip"     │
+│  como: "autodidakta-main.zip"                       │
 └──────────────────────────┬──────────────────────────┘
                            │
                            ▼
