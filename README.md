@@ -36,6 +36,8 @@ A partir de ese archivo, la IA genera automáticamente el resto por tema de estu
 
 Abre un [Issue](../../issues) en este repo — es la forma más ordenada de reportar errores o sugerir mejoras, y queda visible para otros que usen el sistema. Para algo más directo, también puedes escribir a contacto@nbits.cl.
 
+❤ Si te gusto este sistema, agrega una estreya a mi repositorio por favor.
+
 ## Créditos
 
 Creado por **Ricardo Nieto**
